@@ -19,7 +19,7 @@ By pasting the restricted content directly into the script's string variable, th
 
 ```bash
 pip install -r requirements.txt
-
+```
 Note for Linux Users: pyautogui may require additional system packages such as scrot,
 tk-dev, or python3-tk. If you run into issues, install them via your package manager (e.g.,
  sudo apt-get install python3-tk python3-dev).
@@ -32,7 +32,9 @@ letter = "I want to write this"
 Run the script:
 
 Bash
+```bash
 python script.py
+```
 Quickly click into the target text input, text editor, or application window during the 3-second countdown buffer.
 
 Configuration
