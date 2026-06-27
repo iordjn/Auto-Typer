@@ -35,7 +35,7 @@ Run the script:
 
 Bash
 ```bash
-python script.py
+python main.py
 ```
 Quickly click into the target text input, text editor, or application window during the 3-second countdown buffer.
 
