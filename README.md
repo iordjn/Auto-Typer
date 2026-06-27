@@ -28,7 +28,9 @@ Usage
 Open the script and modify the letter variable with the string you want to type:
 
 Python
+```Python
 letter = "I want to write this"
+```
 Run the script:
 
 Bash
